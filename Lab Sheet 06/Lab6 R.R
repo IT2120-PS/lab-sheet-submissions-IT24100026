@@ -8,3 +8,4 @@ pbinom(46, 50, 0.85,lower.tail = FALSE)
 #Number of calls received in given day
 #poisson distribution
 dpois(15, 12)
+
